@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ramón Talvi Robledo</title>
+    <link>https://ramontalvi.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Ramón Talvi Robledo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ramontalvi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A bibliographical review &amp; application of YOLO models</title>
+      <link>https://ramontalvi.github.io/post/project-3/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/post/project-3/</guid>
+      <description>Abstract:
+In this project, we train a You Only Look Once (YOLO) model on a dataset of 292 images of chess peices with 2894 labels to make a real time object detector and classifier. We can predict on pictures, videos, and create a real time webcam output on our own chess pieces. We discuss the theory and limitations of these models, and some of the comparisons of the recent improvements on the original YOLO algorithm.</description>
+    </item>
+    
+    <item>
+      <title>A systematic review on Conformal Inference</title>
+      <link>https://ramontalvi.github.io/post/project-2/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/post/project-2/</guid>
+      <description>Abstract:
+The report builds upon the paper &amp;ldquo;Conformal Prediction Beyond Exchangeability&amp;rdquo; by R.F. Barber et al. and aims to explore the impact of lifting the usual assumptions of exchangeability and symmetry on both split and full conformal inference methods. Additionally, throughout the report we conduct a constant comparison of split and full conformal inference methods, taking into account the fact that there is a trade off between computational expensiveness/feasibility and statistical efficiency (split-full trade off).</description>
+    </item>
+    
+    <item>
+      <title>The Role of Emotional Sentiment in Predicting the Popularity of Reddit Responses to Donald Trump’s Presidential Legacy</title>
+      <link>https://ramontalvi.github.io/post/project-4/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/post/project-4/</guid>
+      <description>Abstract:
+The initial stage of our research involves accessing the Reddit API to extract all responses -including metadata- from the post &amp;ldquo;Donald Trump has not made a single lasting positive impact on the USA during his term as president&amp;rdquo;. Subsequently, we undertake pre-processing activities such as handling missing values, stop word removal, tokenization, and lemmatization to construct the Document Term matrix. We then identify emotion analysis as a more suitable technique for forecasting document scores than sentiment and perform a descriptive analysis that relates emotion prevalence to document scores.</description>
+    </item>
+    
+    <item>
+      <title>Comparison of Frequentist and Bayesian Approaches in Modeling Micro-Determinants of Income</title>
+      <link>https://ramontalvi.github.io/post/project-1/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/post/project-1/</guid>
+      <description>Introduction:
+This paper endeavors to explore the nuanced relationship between income and individual characteristics by analyzing survey data from Italy. Our primary objective is to predict an individual&amp;rsquo;s income target variable by investigating micro determinants - variables that provide a granular understanding of the complex and multifaceted nature of income disparities.
+Conclusion:
+In this paper we examined the performance of both Bayesian and frequentist approaches for penalized regression and for quantile penalized regression.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ramontalvi.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/about/</guid>
+      <description>While studying Economics back in Uruguay, I discovered my passion for mathematics and quantitative methods. After completing my career in Economics, a vocational re-orientation led me to study Philosophy for three years upon moving to Madrid, my mother’s city of birth. During that period, I combined philosophical training with teaching calculus and statistics courses to senior high-school and first-year university students. However, it wasn’t long before I realized that my true calling was in Data Science.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ramontalvi.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/contact/</guid>
+      <description>You can contact me through my email: ramon.talvi@bse.eu
+Follow me on the following social media platforms.
+Platform URL Linkedin: https://www.linkedin.com/in/ramontalvi/ Github: https://github.com/ramoncio6 </description>
+    </item>
+    
+  </channel>
+</rss>

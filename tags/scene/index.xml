@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ramón Talvi Robledo</title>
+    <link>https://ramontalvi.github.io/tags/scene/</link>
+    <description>Recent content in scene on Ramón Talvi Robledo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ramontalvi.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Emotional Sentiment in Predicting the Popularity of Reddit Responses to Donald Trump’s Presidential Legacy</title>
+      <link>https://ramontalvi.github.io/post/project-4/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramontalvi.github.io/post/project-4/</guid>
+      <description>Abstract:
+The initial stage of our research involves accessing the Reddit API to extract all responses -including metadata- from the post &amp;ldquo;Donald Trump has not made a single lasting positive impact on the USA during his term as president&amp;rdquo;. Subsequently, we undertake pre-processing activities such as handling missing values, stop word removal, tokenization, and lemmatization to construct the Document Term matrix. We then identify emotion analysis as a more suitable technique for forecasting document scores than sentiment and perform a descriptive analysis that relates emotion prevalence to document scores.</description>
+    </item>
+    
+  </channel>
+</rss>
